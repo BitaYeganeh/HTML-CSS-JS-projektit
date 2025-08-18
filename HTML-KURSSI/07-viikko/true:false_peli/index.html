@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Two Truths and a Lie</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    h2 {
+      margin-top: 40px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+    input[type="text"] {
+      width: 300px;
+      margin-bottom: 10px;
+    }
+    .true { color: green; }
+    .false { color: red; }
+    ul li {
+      margin-bottom: 10px;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Two Truths and a Lie Game</h1>
+
+  <h2>Player 1: Enter Claims & Select the Truths</h2>
+  <form id="player1Form">
+    <label>Claim 1: <input type="text" id="claim1" /></label>
+    <label><input type="radio" name="truth1" value="true" />True</label>
+    <label><input type="radio" name="truth1" value="false" />False</label><br><br>
+
+    <label>Claim 2: <input type="text" id="claim2" /></label>
+    <label><input type="radio" name="truth2" value="true" />True</label>
+    <label><input type="radio" name="truth2" value="false" />False</label><br><br>
+
+    <label>Claim 3: <input type="text" id="claim3" /></label>
+    <label><input type="radio" name="truth3" value="true" />True</label>
+    <label><input type="radio" name="truth3" value="false" />False</label><br><br>
+
+    <button type="button" id="saveClaimsBtn">Save Claims</button>
+  </form>
+
+
+<!-- Player 2 Form (Initially Hidden) -->
+
+
+  <h2>Player 2: Guess Which One Is the Lie</h2>
+  <form id="player2Form" class="hidden">
+    <div id="guessClaims"></div>
+    <button type="button" id="revealBtn">Reveal Result</button>
+  </form>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
