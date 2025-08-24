@@ -1,4 +1,4 @@
-# HTML-, CSS & JS Projects  
+# HTML, CSS & JS Projects  
 Web Development Practice Projects  
 
 This repository contains my **HTML, CSS and JavaScript practice exercises** completed as part of my studies at **Business College Helsinki**.  
@@ -8,8 +8,8 @@ The projects are small assignments meant for learning the basics of web developm
 
 ## 📂 Repository Structure
 
-- `html/` → HTML & CSS projects and practice exercises  
-- `js/` → JavaScript projects and practice exercises  
+- `HTML/` → HTML & CSS projects and practice exercises  
+- `JS/` → JavaScript projects and practice exercises  
 
 Each folder has its own `README.md` file with more details.
 
