@@ -1,6 +1,6 @@
 # HTML-KURSSI  
 
-This folder contains my HTML practice and project work from **Business College Helsinki**.  
+This folder contains my HTML practice and project work during studying at **Business College Helsinki**.  
 
 ## 📂 Contents  
 
