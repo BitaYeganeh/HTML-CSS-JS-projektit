@@ -16,7 +16,7 @@ body {
     background-color:rgb(205, 215, 195);
     padding:10px;
     max-height:700px;
-    background-image:url('/JS/07-viikko/Eläintarha/favicon.png');
+    background-image:url('favicon.png');
     background-repeat:no-repeat;
     background-position:center;
     border-radius: 30px;
