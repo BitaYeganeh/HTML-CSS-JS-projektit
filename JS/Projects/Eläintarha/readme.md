@@ -2,9 +2,9 @@
 
 Pikku Eläintarha is a simple web application that lets users **view, add, remove, search, and filter animals** by type. It's built with **HTML, CSS, and JavaScript** — no backend required.  
 
-![Pikku Eläintarha ](/screenshots/main.png) 
-![filter view](/screenshots/1.png)
-![filter view](/screenshots/2.png)
+![Pikku Eläintarha ](screenshots/main.png) 
+![filter view](screenshots/1.png)
+![filter view](screenshots/2.png)
  
 
 
