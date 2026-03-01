@@ -3,8 +3,8 @@
 Pikku Eläintarha is a simple web application that lets users **view, add, remove, search, and filter animals** by type. It's built with **HTML, CSS, and JavaScript** — no backend required.  
 
 ![Pikku Eläintarha ](/screenshots/main.png) 
-![](/screenshots/1.png)
-![](/screenshots/2.png)
+![filter view](/screenshots/1.png)
+![filter view](/screenshots/2.png)
  
 
 
@@ -18,16 +18,6 @@ Pikku Eläintarha is a simple web application that lets users **view, add, remov
 - Filter animals by type (Nisäkäs, Lintu, Matelija, Sammakkoeläin, Kala).
 - Search animals by name (real-time search).
 - Sort animals alphabetically (A → Ö).
-
----
-
-## Folder Structure
-Eläintarha/
-├── index.html # Main HTML file
-├── style.css # Styling for layout and UI
-├── script.js # JavaScript logic
-├── favicon.png # Icon and background image
-└── README.md # Project documentation
 
 
 ---
