@@ -42,9 +42,9 @@ Sort Animals: Click "Järjestä A-Ö" to sort alphabetically.
 ---
 
 ## Technologies Used
-HTML5 – Structure and content.
-CSS3 – Styling and layout.
-JavaScript  – Interactivity, filtering, searching, sorting.
 
-Author
-Created by [Bita Yeganeh]
+HTML5 
+CSS3 
+JavaScript 
+---
+👩‍💻 Author Bita Yeganeh
