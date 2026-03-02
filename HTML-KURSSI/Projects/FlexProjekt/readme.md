@@ -1,15 +1,16 @@
-🎵 FlexFest 2025
+## 🎵 FlexFest 2025
 
 FlexFest 2025 is a responsive festival website built with HTML and CSS.
 It presents a fictional summer music festival happening on 14.–16.8.2025 in Helsinki.
-
+-----
 The project focuses on layout structure, Flexbox/Grid usage, and clean section-based design.
 
-![home](/screenshots/1.png)
-![home](/screenshots/2.png)
-![home](/screenshots/3.png)
+![home](screenshots/1.png)
+![home](screenshots/2.png)
+![home](screenshots/3.png)
 
-🌟 Features
+------
+## 🌟 Features
 
 🎤 Festival hero section
 
@@ -24,17 +25,18 @@ The project focuses on layout structure, Flexbox/Grid usage, and clean section-b
 📱 Responsive navigation and layout
 
 🔗 Footer with social/contact links
+----
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
+- HTML5
 
-HTML5
+- CSS3
 
-CSS3
+- Flexbox
 
-Flexbox
-
-CSS Grid
-📂 Project Structure
+- CSS Grid
+----
+## 📂 Project Structure
 
 FlexFest/
 │── index.html
@@ -45,22 +47,8 @@ FlexFest/
 │   ├── kuva2.png
 │   └── ...
 
+----
 
-📍 Event Information
-
-Event Name: FlexFest 2025
-
-Date: 14.–16.8.2025
-
-Location: Puistokatu 10, 00200 Helsinki
-
-Ticket Options
-
-Päivälippu – 49€
-
-Weekend-pass – 99€
-
-VIP-pass – 129€ (includes VIP area + free catering)
 
 📸 Preview
 
@@ -80,3 +68,6 @@ Responsive image gallery
 
 Footer with contact links
 
+----
+## 👩‍💻 Author 
+Bita Yeganeh
